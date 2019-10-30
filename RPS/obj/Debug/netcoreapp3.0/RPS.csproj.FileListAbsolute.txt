@@ -1,0 +1,11 @@
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\bin\Debug\netcoreapp3.0\RPS.exe
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\bin\Debug\netcoreapp3.0\RPS.deps.json
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\bin\Debug\netcoreapp3.0\RPS.runtimeconfig.json
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\bin\Debug\netcoreapp3.0\RPS.runtimeconfig.dev.json
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\bin\Debug\netcoreapp3.0\RPS.dll
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\bin\Debug\netcoreapp3.0\RPS.pdb
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\obj\Debug\netcoreapp3.0\RPS.csprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\obj\Debug\netcoreapp3.0\RPS.AssemblyInfoInputs.cache
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\obj\Debug\netcoreapp3.0\RPS.AssemblyInfo.cs
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\obj\Debug\netcoreapp3.0\RPS.dll
+C:\Users\Aaron\Desktop\Important Files\GCProjects\RPS\RPS\obj\Debug\netcoreapp3.0\RPS.pdb
